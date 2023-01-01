@@ -2,8 +2,8 @@
 
 Im trying to learn to code...
 
-- 📂 Learning LUA, CSS, HTML, JAVASCRIPT...
-- 💻 Future Pilot
+- 📂 Learning LUA, CSS, HTML, JS...
+- 🧑‍✈️ Future Pilot
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaBaMa1st&show_icons=true&count_private=true)  

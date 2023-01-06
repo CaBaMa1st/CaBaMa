@@ -2,7 +2,8 @@
 Im trying to learn to code...
 
 - 📂 Learning LUA, CSS, HTML, JS...
--🧑‍✈️ Future Pilot
+
+- 🧑‍✈️ Future Pilot
 
 
 <a href="https://github.com/CaBaMa1st" target="_blank">

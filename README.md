@@ -18,7 +18,7 @@ Im trying to learn to code...
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=CaBaMa1st&&style=flat-square)  
   <img src="https://github-readme-stats.vercel.app/api?username=CaBaMa1st&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaBaMa1st&layout=compact(https://github.com/anuraghazra/github-readme-stats)" align="left" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaBaMa1st&layout=compact" align="left" style="width: 45%;" />
 </div>
 
 <br/>  
